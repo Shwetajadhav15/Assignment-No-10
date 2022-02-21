@@ -1,2 +1,4 @@
 # Assignment-No-10
-Recommendation-Systems
+# Recommendation-Systems
+
+Built a recommendation system by using cosine similarities score.
